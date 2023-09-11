@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Superior Chronograph",
+      "price": 499.99,
+      "features": [
+        "Chronograph",
+        "Date Function",
+        "Luminous Hands",
+        "Sapphire Crystal"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Elegant Dress Watch",
+      "price": 299.99,
+      "features": [
+        "Date Function",
+        "Sapphire Crystal"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sporty Diver's Watch",
+      "price": 599.99,
+      "features": [
+        "Water Resistant",
+        "Rotating Bezel",
+        "Luminous Markers",
+        "Automatic Movement"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Classic Leather Strap Watch",
+      "price": 249.99,
+      "features": [
+        "Leather Strap",
+        "Roman Numerals",
+        "Quartz Movement"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Digital Smartwatch",
+      "price": 199.99,
+      "features": [
+        "Smart Connectivity",
+        "Touchscreen Display",
+        "Heart Rate Monitor"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Aviator's Pilot Watch",
+      "price": 699.99,
+      "features": [
+        "Aviation-inspired Design",
+        "Chronograph",
+        "Tachymeter",
+        "Automatic Movement"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Stylish Women's Watch",
+      "price": 159.99,
+      "features": [
+        "Elegant Design",
+        "Diamond Accents",
+        "Quartz Movement"
+      ]
+    }    
+  ]
+  
