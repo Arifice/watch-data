@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "image_features": "https://example.com/rolex_submariner.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tag Heuer Carrera",
+    "image_features": "https://example.com/tag_heuer_carrera.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Omega Seamaster",
+    "image_features": "https://example.com/omega_seamaster.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Patek Philippe Calatrava",
+    "image_features": "https://example.com/patek_philippe_calatrava.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Audemars Piguet Royal Oak",
+    "image_features": "https://example.com/audemars_piguet_royal_oak.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Breitling Navitimer",
+    "image_features": "https://example.com/breitling_navitimer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Seiko Prospex",
+    "image_features": "https://example.com/seiko_prospex.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Citizen Eco-Drive",
+    "image_features": "https://example.com/citizen_eco_drive.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fossil Grant",
+    "image_features": "https://example.com/fossil_grant.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Casio G-Shock",
+    "image_features": "https://example.com/casio_g_shock.jpg"
+  }
+]
